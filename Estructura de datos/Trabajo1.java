@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Main1 {
-    public static void main1(String[] args) {
+public class Trabajo1 {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Ingrese la cantidad de notas");
